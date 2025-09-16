@@ -106,7 +106,7 @@ Created as a learning project to practice Python, the aiogram library, and the w
   
 ## 🔮 Future Plans
 
-- Better output with emojis ☀️🌧️❄️
+- Better output with weather photo
 
 - Save the last entered city
 
