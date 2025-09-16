@@ -5,7 +5,7 @@ import logging
 from aiogram import Bot, Dispatcher
 from hendler import router
 from start_name import TOKEN
-
+#Вставь токен бота в файле start_name и API_TOKEN
 
 async def main():
     bot = Bot(token=TOKEN)
@@ -19,4 +19,5 @@ if __name__ == '__main__':
         asyncio.run(main())
     except KeyboardInterrupt:
         print('Выключение.......')
+
 
